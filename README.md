@@ -8,7 +8,7 @@ INSTITUTION: Air University Karachi
 
 DEPARTMENT: Department of CyberSecurity
 
-PROGRAMMING LANGUAGE: Python, with embedded CS and JS
+PROGRAMMING LANGUAGE: Python, with embedded CSS
 
 AUTHORS:
 
