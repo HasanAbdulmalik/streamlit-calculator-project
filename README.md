@@ -1,4 +1,4 @@
-Semester Course Project
+SEMESTER COURSE PROJECT
 
 TITLE: Simple Calculator
 
