@@ -8,7 +8,9 @@ INSTITUTION: Air University Karachi
 
 DEPARTMENT: Department of CyberSecurity
 
-PROGRAMMING LANGUAGE: Python, with embedded CSS
+PROGRAMMING LANGUAGE: Python, with embedded CSS 
+
+NOTE: The interface of the calculator is designed with the help of ChatGPT, but the functionality of the backend is designed by self.
 
 AUTHORS:
 
